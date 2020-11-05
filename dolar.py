@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from http.client import HTTPConnection
 from datetime import datetime
 
